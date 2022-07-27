@@ -1,19 +1,14 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+# LOL(Lego Of Legend)
+- 소규모 LEGO 대행 및 중고 판매 사이트
+- 역할 - BackEnd
 
-To use this application, 
+## 00. 프로젝트 개요
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+## 01. 주요코드
 
+## 02. 개발기간
+- 2022.06.21 ~ 2022.07.26
+## 03. 개발환경
+- 
 
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
-# LOL_ShoppingMall
+## 04. 회고
