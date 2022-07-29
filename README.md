@@ -7,8 +7,13 @@
 ## 01. 사용기술
 ### Front-End
 
+<img width="495" src="https://user-images.githubusercontent.com/82345970/181676463-73a3ce66-f1d4-4664-b3ef-79d4f4ac6d3c.png">
+
 
 ### Back-End
+
+<img width="495" src="https://user-images.githubusercontent.com/82345970/181676175-2c696020-c998-4b78-a79d-1f75f5526cb0.png">
+
 
 ## 02. 개발기간
 - 2022.06.21 ~ 2022.07.26
