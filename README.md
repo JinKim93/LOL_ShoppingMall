@@ -25,3 +25,11 @@
 - express 4.17.1
 
 ## 04. 회고
+<details>
+<summary><b>매물 상세정보</b></summary>
+<div markdown="1">
+
+![6](https://user-images.githubusercontent.com/48177285/182029753-ada3292e-dc2d-4fab-b30d-29b679a4730f.JPG)
+
+</div>
+</details>
