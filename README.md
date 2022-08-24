@@ -2,10 +2,10 @@
 ![image](https://user-images.githubusercontent.com/82345970/186317207-5406c28d-0539-4d9e-aa5e-233437ed92a3.png)
 <br></br>
 
-## 01. 제작 기간
+## 1. 제작 기간
 - 2022.06.21 ~ 2022.07.26
 <br></br>
-## 02. 사용기술
+## 2. 사용기술
 ### Front-End
 <img width="495" src="https://user-images.githubusercontent.com/82345970/181676463-73a3ce66-f1d4-4664-b3ef-79d4f4ac6d3c.png">
 
@@ -15,14 +15,21 @@
 
 
 
-## 03. 개발환경
+## 3. 개발환경
 - Javascript ES6
 - node 16.15.0
 - react 16.8.6
 - MongoDB
 - express 4.17.1
 <br></br>
-## 04. 기능 요약
+## 4. 기능 요약
 <details>
 <summary><b>펼치기</b></summary>
 <div markdown="1">
+
+### 4.1. 인증 :pushpin: [코드 확인]()
+- 로그인
+  - 이메일
+  
+### 4.2. 유저 :pushpin: [코드 확인]()
+- 회원가입  
