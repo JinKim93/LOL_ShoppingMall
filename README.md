@@ -31,17 +31,17 @@
 <summary><b>펼치기</b></summary>
 <div markdown="1">
 
-#### 5.1. 인증 :pushpin: [코드 확인]()
+#### 5.1. 인증 :pushpin: [코드 확인](https://github.com/JinKim93/LOL_ShoppingMall/tree/main/server/middleware)
 - 로그인
   - 이메일
   
-#### 5.2. 유저 :pushpin: [코드 확인]()
+#### 5.2. 유저 :pushpin: [코드 확인](https://github.com/JinKim93/LOL_ShoppingMall/blob/main/server/routes/users.js)
 - 회원가입  
 
-#### 5.3. 상품 :pushpin: [코드 확인]()
+#### 5.3. 상품 :pushpin: [코드 확인](https://github.com/JinKim93/LOL_ShoppingMall/blob/main/server/routes/product.js)
 - 상품업로드
 - 상품조회
 - 상품상세정보
 
-#### 5.4 결제 :pushpin: [코드 확인]()
+#### 5.4 결제 :pushpin: [코드 확인](https://github.com/JinKim93/LOL_ShoppingMall/blob/main/client/src/components/utils/Paypal.js)
 - PayPal  
