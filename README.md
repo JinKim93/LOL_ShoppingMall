@@ -13,31 +13,35 @@
 <img width="495" src="https://user-images.githubusercontent.com/82345970/181676175-2c696020-c998-4b78-a79d-1f75f5526cb0.png">
 <br></br>
 
+## 3. ERD
+
+![image](https://user-images.githubusercontent.com/82345970/186331399-20998055-3fd1-4459-b699-28f8db039855.png)
+<br></br>
 
 
-## 3. 개발환경
+## 4. 개발환경
 - Javascript ES6
 - node 16.15.0
 - react 16.8.6
 - MongoDB
 - express 4.17.1
 <br></br>
-## 4. 기능 요약
+## 5. 기능 요약
 <details>
 <summary><b>펼치기</b></summary>
 <div markdown="1">
 
-#### 4.1. 인증 :pushpin: [코드 확인]()
+#### 5.1. 인증 :pushpin: [코드 확인]()
 - 로그인
   - 이메일
   
-#### 4.2. 유저 :pushpin: [코드 확인]()
+#### 5.2. 유저 :pushpin: [코드 확인]()
 - 회원가입  
 
-#### 4.3. 상품 :pushpin: [코드 확인]()
+#### 5.3. 상품 :pushpin: [코드 확인]()
 - 상품업로드
 - 상품조회
 - 상품상세정보
 
-#### 4.4 결제 :pushpin: [코드 확인]()
+#### 5.4 결제 :pushpin: [코드 확인]()
 - PayPal  
