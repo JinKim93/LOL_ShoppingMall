@@ -1,6 +1,6 @@
-# LOL(Lego Of Legend)
-- 소규모 LEGO 대행 및 중고 판매 사이트
-- 역할 - BackEnd
+# :pushpin: LOL(Lego Of Legend)
+![image](https://user-images.githubusercontent.com/82345970/186317207-5406c28d-0539-4d9e-aa5e-233437ed92a3.png)
+
 
 ## 00. 프로젝트 개요
 
